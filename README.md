@@ -1,8 +1,4 @@
-### Hi there 👋
-Software engineer.
-I'm interested in .aar, .framework development, CI and test code.
-
-### NaoOishi's github stats
+## NaoOishi's github stats👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=NaoOishi&count_private=true&show_icons=true&theme=dark" />
 </a>
