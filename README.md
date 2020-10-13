@@ -1,4 +1,6 @@
 ### Hi there 👋
+Software engineer.
+I'm interested in .aar, .framework development, CI and test code.
 
 <!--
 **NaoOishi/NaoOishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
